@@ -1,6 +1,0 @@
-streamlit
-requests
-python-dotenv
-PyPDF2
-pdfminer.six
-ollama
